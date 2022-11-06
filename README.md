@@ -1,2 +1,2 @@
-# halfhill
-Halfhill Trading Terminal
+# Halfhill Trading Terminal
+
